@@ -1,0 +1,21 @@
+body{
+    background-color: #f4f3ee;
+}
+h2{
+    margin-left:500px;
+}
+
+div{
+    width:500px;
+    background-color: #f9bec7;
+    margin-left: 500px;
+    
+}
+span{
+  font-size:40px;
+  padding-left: px;
+  margin:500px;
+  background-color: #f9bec7;
+  position: sticky; 
+  top:0.25rem;
+}
