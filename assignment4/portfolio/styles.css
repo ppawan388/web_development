@@ -1,0 +1,81 @@
+body {
+    background-color: #1f2235; 
+    font-family: "Baloo Tamma 2", cursive;
+  }
+  
+  /* Main Heading Font */
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+  }
+  #nav{
+    background-color: #f5ba!important;
+  }
+  .navigation-link:hover{
+      text-decoration: none;
+      border-bottom: 2px solid #f5ba;
+      transition:0.5s ease;
+  }
+  
+.main-container{
+  height:100vh;
+  padding-top:10rem;
+
+}
+.main_row{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.main_row h1{
+  font-size:3rem;
+}
+/* .main_row img{
+  width:auto;
+  height:23.9rem;
+} */
+/* .container-fluid.pt-3{
+  background:#1f2235;
+   position:fixed;
+   top:0px;
+} */
+
+#about{
+  /* padding:50px; */
+  background: #313552;
+  border-radius: 0.5rem;
+}
+#skills{
+  margin-top:20px;
+  /* padding:50px; */
+  background: #313552;
+  border-radius: 0.5rem;
+}
+#skills p{
+  padding:10px;
+  font-size: 1.5rem;
+}
+#upcoming{
+  /* padding:50px; */
+  margin-top:20px;
+  /* background: #313552; */
+  border-radius: 0.5rem;
+}
+#footer{
+  /* padding:50px; */
+  margin-top:100px;
+  /* background-color: white; */
+  /* background: #313552; */
+  
+}
+.btn.btn-primary{
+  background-color:#313552!important;
+}
+#social{
+  font-size: 3rem;
+}
+#social i{
+color: #f5ba!important;
+}
+#talk p{
+  font-size:1.5rem;
+}
